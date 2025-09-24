@@ -27,3 +27,4 @@ cache/
 *.safetensors
 *.bin
 hug_face_class2.py
+hugging_face_class1.py
