@@ -26,3 +26,4 @@ cache/
 # --- Large model artifacts if they ever end up here (don’t commit!)
 *.safetensors
 *.bin
+hug_face_class2.py
