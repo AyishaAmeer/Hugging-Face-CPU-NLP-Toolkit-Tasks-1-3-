@@ -1,0 +1,21 @@
+input,output,decoding,tokens_out,constraint_passed,notes
+"The sun sets behind the mountains, painting the sky in shades of orange and purple.","The sun sets behind the mountains, painting the sky in shades of orange and purple.",beam,15,True,unchanged
+"The sun sets behind the mountains, painting the sky in shades of orange and purple.","The sun sets behind the mountains, painting the sky in shades of orange and purple.",sampling,15,True,unchanged
+Artificial intelligence is transforming industries from healthcare to transportation.,Artificial intelligence is transforming industries from healthcare to transportation.,beam,9,True,unchanged
+Artificial intelligence is transforming industries from healthcare to transportation.,Artificial intelligence is transforming industries from healthcare to transportation.,sampling,9,True,unchanged
+My favorite dish to cook is pasta with homemade tomato sauce.,My favorite dish to cook is pasta with homemade tomato sauce.,beam,11,True,unchanged
+My favorite dish to cook is pasta with homemade tomato sauce.,My favorite dish to cook is pasta with homemade tomato sauce.,sampling,11,True,unchanged
+The Eiffel Tower in Paris attracts millions of tourists every year.,The Eiffel Tower in Paris attracts millions of tourists every year.,beam,11,True,unchanged
+The Eiffel Tower in Paris attracts millions of tourists every year.,The Eiffel Tower in Paris attracts millions of tourists every year.,sampling,11,True,unchanged
+Exercise helps improve both physical strength and mental health.,Exercise helps improve both physical strength and mental health.,beam,9,True,unchanged
+Exercise helps improve both physical strength and mental health.,Exercise helps improve both physical strength and mental health.,sampling,9,True,unchanged
+Bees play a crucial role in pollinating plants and maintaining ecosystems.,Bees play a crucial role in pollinating plants and maintaining ecosystems.,beam,11,True,unchanged
+Bees play a crucial role in pollinating plants and maintaining ecosystems.,Bees play a crucial role in pollinating plants and maintaining ecosystems.,sampling,11,True,unchanged
+The stock market can fluctuate rapidly due to global events.,The stock market can fluctuate rapidly due to global events.,beam,10,True,unchanged
+The stock market can fluctuate rapidly due to global events.,The stock market can fluctuate rapidly due to global events.,sampling,10,True,unchanged
+Reading science fiction books sparks creativity and imagination.,Reading science fiction books sparks creativity and imagination.,beam,8,True,unchanged
+Reading science fiction books sparks creativity and imagination.,Reading science fiction books sparks creativity and imagination.,sampling,8,True,unchanged
+Mars exploration missions are paving the way for future human settlement.,Mars exploration missions are paving the way for future human settlement.,beam,11,True,unchanged
+Mars exploration missions are paving the way for future human settlement.,Mars exploration missions are paving the way for future human settlement.,sampling,11,True,unchanged
+Music has the power to bring people together across cultures.,Music can bring people together across cultures.,beam,7,False,too short
+Music has the power to bring people together across cultures.,Music has the power to bring people together across cultures.,sampling,10,True,unchanged

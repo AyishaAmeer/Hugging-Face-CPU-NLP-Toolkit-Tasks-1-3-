@@ -1,0 +1,28 @@
+# --- Python bytecode & build ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+*.log
+
+# --- Virtual environments (skip your hf311 env) ---
+.venv/
+venv/
+env/
+hf311/
+
+# --- Jupyter checkpoints ---
+.ipynb_checkpoints/
+
+# --- OS files ---
+.DS_Store
+Thumbs.db
+
+# --- Caches (including any local HF cache folders dropped in project) ---
+**/.cache/
+cache/
+
+# --- Large model artifacts if they ever end up here (don’t commit!)
+*.safetensors
+*.bin
