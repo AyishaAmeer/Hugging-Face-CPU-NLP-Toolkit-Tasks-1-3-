@@ -29,12 +29,19 @@ CPU-only: the scripts set CUDA_VISIBLE_DEVICES="" and use device=-1.
 
 .
 ├── hug_face.ipynb               # Task 1
+
 ├── task2.py                  # Task 2
+
 ├── task3.py                  # Task 3
+
 ├── textfile.txt              # inputs for rewrite (1 sentence per line)
+
 ├── lines_summarize.txt       # inputs for summarize (2–3 sentences per line)
+
 ├── lines_sentiment.txt       # inputs for sentiment (1 sentence per line)
+
 ├── results.csv               # Task 2 output
+
 └── README.md
 
 # 3) Task 1 
